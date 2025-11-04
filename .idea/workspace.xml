@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f5db2d2-08ec-4f32-9d75-f9ecea39af84" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/SQL/Hybrid_Tables.sql" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/Hybrid_Tables.sql" afterDir="false" />
-    </list>
+    <list default="true" id="0f5db2d2-08ec-4f32-9d75-f9ecea39af84" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
